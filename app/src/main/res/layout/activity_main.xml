@@ -33,14 +33,14 @@
             android:id="@+id/leftbtn"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:onClick="buttonclick" />
+            android:onClick="mChangeColourButtons" />
 
         <Button
             android:id="@+id/rightbtn"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginLeft="70dp"
-            android:onClick="buttonclick" />
+            android:onClick="mChangeColourButtons" />
 
     </LinearLayout>
 
